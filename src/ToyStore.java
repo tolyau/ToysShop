@@ -89,7 +89,7 @@ public class ToyStore {
         toyStore.put("3 Кукла 50");
 
         // Розыгрыш игрушек и запись результатов в файл
-        toyStore.playAndWriteResults(10);
+        toyStore.playAndWriteResults(10);//111
     }
 }
 
